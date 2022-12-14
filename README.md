@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=birhanu6&label=Profile%20views&color=0e75b6&style=flat" alt="birhanu6" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=birhanu6&theme=onedark&column=-1)](https://github.com/birhanu6/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=birhanu6&theme=onedark&column=-1)](https://github.com/birhanu6/github-profile-trophy) 
 
 
 <p align="left"> <a href="https://twitter.com/birhanu112" target="blank"><img src="https://img.shields.io/twitter/follow/birhanu112?logo=twitter&style=for-the-badge" alt="birhanu112" /></a> </p>
